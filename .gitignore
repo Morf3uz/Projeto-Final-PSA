@@ -34,3 +34,4 @@ build/
 
 ### Application Properties ###
 application-local.properties
+/src/test/
